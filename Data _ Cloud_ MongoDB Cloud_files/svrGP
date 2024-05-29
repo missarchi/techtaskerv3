@@ -1,0 +1,1 @@
+function GetElqCustomerGUID(){ return '5e37545d-229e-4afc-a4f3-0bbe8430db1f'; }

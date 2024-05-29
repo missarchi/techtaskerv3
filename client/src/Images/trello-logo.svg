@@ -1,0 +1,21 @@
+<svg width="126" height="25.846153846153847" viewBox="0 0 312 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="LogoTrello__Logo-sc-11mphmv-0 dmCGMv">
+    <defs>
+        <linearGradient id="trello-logo-gradient-default" x1="50.048061%" x2="50.048061%" y1="100%" y2="0%">
+            <stop offset="0" stop-color="#0052cc"></stop>
+            <stop offset="1" stop-color="#2684ff"></stop>
+        </linearGradient>
+    </defs>
+    <linearGradient id="trello-logo-gradient-default" x1="50.048061%" x2="50.048061%" y1="100%" y2="0%">
+        <stop offset="0" stop-color="#0052cc"></stop>
+        <stop offset="1" stop-color="#2684ff"></stop>
+    </linearGradient>
+    <g fill="none" fill-rule="evenodd">
+        
+        <g fill="#293856" fill-rule="nonzero" transform="translate(87)">
+            
+            <!-- Text added here -->
+            <text x="0" y="0" font-family="Arial" font-size="12" fill="#293856">TECHTASKER</text>
+            
+        </g>
+    </g>
+</svg>
