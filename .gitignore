@@ -1,6 +1,6 @@
 .env
 Data_Cloud_MongoDB
-node_modules/
+node_modules
 package-lock.json
 package.json
 server.js
