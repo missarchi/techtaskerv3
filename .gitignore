@@ -1,2 +1,8 @@
-/client/node_modules
-/server/node_modules
+.env
+Data_Cloud_MongoDB
+node_modules/
+package-lock.json
+package.json
+server.js
+yarn.lock
+build/
